@@ -4086,6 +4086,13 @@ apollo-cache@1.3.5:
     apollo-utilities "^1.3.4"
     tslib "^1.10.0"
 
+apollo-client-transform@latest:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/apollo-client-transform/-/apollo-client-transform-0.1.0.tgz#005fe018ee26f32c528aada89c441858f30fb6ae"
+  integrity sha512-vTqb93ghlNp3xigj7iA211928cnQ10UUeyeoSfthQmmw801J9HKgqtH5SekqGxQyhfIAV5Os6/0tzLq6/bg/sA==
+  dependencies:
+    is-plain-object "^2.0.4"
+
 apollo-client@2.6.10:
   version "2.6.10"
   resolved "https://registry.yarnpkg.com/apollo-client/-/apollo-client-2.6.10.tgz#86637047b51d940c8eaa771a4ce1b02df16bea6a"
@@ -8080,6 +8087,13 @@ is-plain-obj@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-4.0.0.tgz#06c0999fd7574edf5a906ba5644ad0feb3a84d22"
   integrity sha512-NXRbBtUdBioI73y/HmOhogw/U5msYPC9DAtGkJXeFcFWSFZw0mCUsPxk/snTuJHzNKA8kLBK4rH97RMB1BfCXw==
+
+is-plain-object@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/is-plain-object/-/is-plain-object-2.0.4.tgz#2c163b3fafb1b606d9d17928f05c2a1c38e07677"
+  integrity sha512-h5PpgXkWitc38BBMYawTYMWJHFZJVnBquFE57xFpjB8pJFiF6gZ+bU+WyI/yqXiFR5mdLsgYNaPe8uao6Uv9Og==
+  dependencies:
+    isobject "^3.0.1"
 
 is-potential-custom-element-name@^1.0.1:
   version "1.0.1"
